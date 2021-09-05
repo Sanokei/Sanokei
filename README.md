@@ -1,24 +1,13 @@
 # Welcome to my Github 👋
 <h3>I am Sano! I work on dumb projects!
 <strong>Check out my pins down below!</strong></h3>
-<h2>Don't be afaird to reach our to me 📫</h2>
+<h2>Don't be afaird to reach out to me 📫</h2>
 <div><img src="https://img.icons8.com/fluency/48/000000/discord.png" align="center"> <strong>Sano#3353</strong></img></div>
-
+<a href="https://twitter.com/_SanoKei"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br />
-
+<h2>Checkout my Portfolio / Mindmap 🧠</h2>
+<a href="https://sanokei.github.io"><img src="https://img.icons8.com/cotton/64/000000/website.png"/></a>
+<br />
+<h2>My Stats 🤓</h2>
+  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sanokei)
-
-<!--
-**Sanokei/Sanokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
