@@ -1,4 +1,12 @@
-### Hi there 👋
+# Welcome to my Github 👋
+<h3>I am Sano! I work on dumb projects!
+<strong>Check out my pins down below!</strong></h3>
+<h2>Don't be afaird to reach our to me 📫</h2>
+<div><img src="https://img.icons8.com/fluency/48/000000/discord.png" align="center"> <strong>Sano#3353</strong></img></div>
+
+<br />
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sanokei)
 
 <!--
 **Sanokei/Sanokei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
