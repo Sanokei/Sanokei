@@ -1,7 +1,7 @@
-# Welcome to my Github 👋
-<h3>I am Sano, I have founded many project. Mostly gone unfinished.
+<h1>I am Sano, I have founded many project.</h1>
+Mostly gone unfinished.
   
-  I am currently working on: </h3> 
+<h2>I am currently working on: </h2> 
   
 <a href="https://github.com/Minebux">
   <img src="https://cdn.discordapp.com/attachments/716875477549318167/885630660570648666/Logo_Fix_Redux_1.png" width="70" height="70" align="center"/>
