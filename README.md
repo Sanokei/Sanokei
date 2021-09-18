@@ -1,8 +1,8 @@
 # Welcome to my Github 👋
-<h3>I am Sano! I work on dumb projects!
-<strong>Check out my pins down below!</strong></h3>
+<h3>I am Sano, I have founded many project. Mostly gone unfinished.
+  
+  I am currently working on: </h3> <a href="https://github.com/Minebux"><img src="https://cdn.discordapp.com/attachments/716875477549318167/885630660570648666/Logo_Fix_Redux_1.png"/></a>
 <h2>Don't be afaird to reach out to me 📫</h2>
-<div><img src="https://img.icons8.com/fluency/48/000000/discord.png" align="center"> <strong>Sano#3353</strong></img></div>
 <a href="https://twitter.com/_SanoKei"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>
 <br />
 <h2>Checkout my Portfolio / Mindmap 🧠</h2>
